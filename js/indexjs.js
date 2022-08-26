@@ -48,14 +48,14 @@ $(".prod8").css("display","block");
 });
 $(function(){
 $(window).scroll(function(){
-if($(window).scrollTop()>=1600){
+if($(window).scrollTop()>=1300){
 $(".intro02 h1").fadeIn(2000);
 };
 });
 });
 $(function(){
 $(window).scroll(function(){
-if($(window).scrollTop()>=2100){
+if($(window).scrollTop()>=1800){
 $(".intro05 h1").fadeIn(2000);
 };
 });
